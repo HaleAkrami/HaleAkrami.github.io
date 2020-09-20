@@ -283,7 +283,7 @@ ul#nav {
     
     overflow: hidden;
 }
-.resume img {
+.resume .education img {
     max-width: 75px
 }
     .resume a, .resume a:visited {
@@ -317,6 +317,9 @@ ul#nav {
         padding-right: 10%;
     }
 
+.resume .work img {
+    max-width: 500px
+}
 .education, .work ,.publications, .skill {
     
     padding-bottom: 60px;
